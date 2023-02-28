@@ -12,9 +12,9 @@ package com.mycompany.elioal.git;
 public class ElioALGIT {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hola Mundo");
         
-        int values=1;
+        int valor= 1;
         
     }
 }
